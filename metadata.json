@@ -1,0 +1,21 @@
+{
+    "prompts": [
+        "beautiful landscape, mountains in the background",
+        "luxury bedroom interior",
+        "Beautiful snowy mountains",
+        "luxurious bedroom interior",
+        "walls with cupboard",
+        "room with chair",
+        "House in the forest"
+
+    ],
+    "depth_maps": [
+        "depth_maps/1.png",
+        "depth_maps/2.png",
+        "depth_maps/3.png",
+        "depth_maps/4.png",
+        "depth_maps/5.png",
+        "depth_maps/6.npy",
+        "depth_maps/7.npy"
+    ]
+}

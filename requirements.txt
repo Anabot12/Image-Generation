@@ -1,0 +1,8 @@
+torch(help in creating a pipeline for the model)
+torchvision(help in visualising the pipeline designed)
+transformers(for creating a pipeline)
+ControlNet(for normalisation of depth maps )
+CUDA(enabling for GPU execution of images for faster result)
+PyTorch (with CUDA support for GPU acceleration)
+Diffusers (Stable Diffusion model and Control Net)
+OpenCV(for reading the images)
