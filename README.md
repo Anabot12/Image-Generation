@@ -16,8 +16,8 @@ This project emphasis on using the Stable Diffusion model from Hugging face for 
 ![alt text](image.png)
 + **CUDA**
 If you want this code to run on your local device, ensure you have the CUDA toolkit installed with the necessary GPU drivers for execution.
-```Nvidia GPU driver: https://www.nvidia.com/en-us/drivers/```
-```Nvidia CUDA ToolKit: https://developer.nvidia.com/cuda-downloads```
+-->Nvidia GPU driver: https://www.nvidia.com/en-us/drivers/
+-->Nvidia CUDA ToolKit: https://developer.nvidia.com/cuda-downloads
 + **Virtual Environment:**
 This is an optional step but its advised to set up a virtual environment for seamless execution of the project.
 ```python -m venv env_name```
