@@ -16,8 +16,13 @@ This project emphasis on using the Stable Diffusion model from Hugging face for 
 ![alt text](image.png)
 + **Virtual Environment:**
 This is an optional step but its advised to set up a virtual environment for seamless execution of the project.
+```python -m venv env_name```
+Activate your virtual environment with the help of 
+```venv\Scripts\activate```
+Always activate your virtual environment before working on the project. 
 + **Requirements:**
 Kindly install the necesssary requirements from [requirements](requirements.txt)
+```pip install -r requirements.txt```
 + **Pre Trained Model:**
 You can find the pre trained stable diffusion model from https://huggingface.co/stabilityai/stable-diffusion-3-medium
 You can either download the model using [model download to local machine](model.py) or call the API. We need to create a pipeline with the help of torch and save on local machine.
