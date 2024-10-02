@@ -40,7 +40,7 @@ To adjust the depth maps according to certain aspect ratio for equal ratio of im
 Images generated are present in [generated_images](generated_images)
 
 ## **Observations**
-The Observations, Advantages and Disadvantages are listed in [Report](<Project Report.docx>)
+The Observations, Advantages and Disadvantages are listed in [Report](<Project Report.pdf>)
 
 
 
